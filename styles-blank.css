@@ -1,4 +1,4 @@
-﻿.cookie-popup-box {
+.cookie-popup-box {
   background-color: #fff;
   bottom: 0;
   left: 0;
@@ -8,7 +8,7 @@
   z-index: 999;
 }
 
-@media (max-width: 800px){
+@media (max-width: 800px) {
   .cookie-popup-box {
     bottom: 1%;
     left: 1%;
@@ -19,48 +19,34 @@
   }
 }
 
-.cookie-popup-top {
-}
+.cookie-popup-top {}
 
-.cookie-popup-header {
-}
+.cookie-popup-header {}
 
-.cookie-popup-text {
-}
+.cookie-popup-text {}
 
-.cookie-popup-link {
-}
+.cookie-popup-link {}
 
 .cookie-popup-middle {
   display: none;
 }
 
-.cookie-popup-row {
-}
+.cookie-popup-row {}
 
-.cookie-popup-row label{
-}
+.cookie-popup-row label {}
 
-.cookie-popup-row p {
-}
+.cookie-popup-row p {}
 
-.cookie-popup-checkbox {
-}
+.cookie-popup-checkbox {}
 
-.cookie-popup-checkbox:checked {
-}
+.cookie-popup-checkbox:checked {}
 
-.cookie-popup-checkbox:disabled {
-}
+.cookie-popup-checkbox:disabled {}
 
-.cookie-popup-bottom {
-}
+.cookie-popup-bottom {}
 
-.cookie-popup-btn-accept {
-}
+.cookie-popup-btn-accept {}
 
-.cookie-popup-btn-preferences {
-}
+.cookie-popup-btn-preferences {}
 
-.cookie-popup-btn-preferences:disabled {
-}
+.cookie-popup-btn-preferences:disabled {}
