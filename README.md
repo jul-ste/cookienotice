@@ -11,7 +11,7 @@ Cookienotice is a small jQuery-based script that shows a cookie popup and gives 
 
 ### How to install it ###
 1. download jquery.cookienotice.js from this repository
-2. jQuery is needed for this script to run properly. One way to include it is by adding the folllowing lines to each of your webpages: <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+2. jQuery is needed for this script to run properly. One way to include it is by adding the folllowing line to each of your webpages: <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 3. the downloaded jquery.cookienotice.js file needs to be loaded on each of your webpages (AFTER jQuery). You can achieve this by storing the file on your server and loading it with <script src="path-to-your-file/jquery.cookienotice.js"></script>
 4. add all styles from either styles.css or styles-blank.css to your stylesheet. Styles-blank.css contains the minimum code needed to get the popup running. If you want a fully styled popup without too much work, use the code in style.css and adjust as needed
 5. customize the first section of jquery.cookienotice.js as needed. You can change the name of the cookie, description, link to privacy policy, etc
